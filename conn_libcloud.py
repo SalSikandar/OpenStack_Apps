@@ -78,4 +78,3 @@ print (" ")
 print ("Destroying an instance")
 print ("###############")
 #conn.destroy_node (testing_instance)
-
