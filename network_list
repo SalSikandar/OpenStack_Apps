@@ -1,0 +1,67 @@
+{
+    "networks": [
+        {
+            "status": "ACTIVE", 
+            "subnets": [], 
+            "name": "salmans", 
+            "admin_state_up": true, 
+            "tenant_id": "bb9c30a84cb54c15a9e45555c3d0163c", 
+            "mtu": 0, 
+            "router:external": false, 
+            "shared": false, 
+            "id": "ea216d3c-91df-47bc-872a-8d06e32c20b9"
+        }, 
+        {
+            "status": "ACTIVE", 
+            "subnets": [
+                "68991dd6-7639-45c6-a3eb-380b6046106f"
+            ], 
+            "name": "sample_network", 
+            "admin_state_up": true, 
+            "tenant_id": "bb9c30a84cb54c15a9e45555c3d0163c", 
+            "mtu": 0, 
+            "router:external": false, 
+            "shared": false, 
+            "id": "cc2a6d41-a518-4908-b342-35223e9c7e74"
+        }, 
+        {
+            "status": "ACTIVE", 
+            "subnets": [
+                "916ed415-8bdb-4f02-8a5e-0913eec3d826"
+            ], 
+            "name": "sample_network", 
+            "admin_state_up": true, 
+            "tenant_id": "bb9c30a84cb54c15a9e45555c3d0163c", 
+            "mtu": 0, 
+            "router:external": false, 
+            "shared": false, 
+            "id": "2f306db4-37e5-4a00-aa1a-0baae9b6f9ff"
+        }, 
+        {
+            "status": "ACTIVE", 
+            "subnets": [
+                "349a4f44-fa3c-4957-b145-228adaa73e9f"
+            ], 
+            "name": "net1", 
+            "admin_state_up": true, 
+            "tenant_id": "bb9c30a84cb54c15a9e45555c3d0163c", 
+            "mtu": 0, 
+            "router:external": false, 
+            "shared": false, 
+            "id": "2e7367b8-ea9c-4ffc-947e-e3d84d470723"
+        }, 
+        {
+            "status": "ACTIVE", 
+            "subnets": [
+                "7913ade1-01e3-44fa-9863-91867c0d23ab"
+            ], 
+            "name": "public", 
+            "admin_state_up": true, 
+            "tenant_id": "33010ad0e98d463aab9e26a58fd43840", 
+            "mtu": 0, 
+            "router:external": true, 
+            "shared": false, 
+            "id": "1fd0a21e-e700-46ae-9f05-0b3164daafcc"
+        }
+    ]
+}
